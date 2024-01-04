@@ -1,1 +1,1 @@
-# adding-calculator
+# imc-calculator
