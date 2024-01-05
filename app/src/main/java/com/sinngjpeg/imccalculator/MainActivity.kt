@@ -10,5 +10,10 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         binding = ActivityMainBinding.inflate(layoutInflater)
         setContentView(binding.root)
+
+        val btnCalculator = binding.btnCalculate
+        val editHeight = binding.edtHeight
+        val editWeight = binding.edtWeight
+
     }
 }
